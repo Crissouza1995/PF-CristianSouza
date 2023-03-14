@@ -36,8 +36,48 @@ svg {
     padding: 20px;
     background-color: rgb(72, 72, 165);
     list-style-type: none;
+}
+
+.cabecera {
+
+    background-color: rgb(72, 72, 165);
+}
+
+.bg-light {
+    background-color: none;
 
 }
+
+
+.navbar-collapse {
+
+    justify-content: center;
+
+}
+
+
+
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: rgb(72, 72, 165);
+    border: 1px solid antiquewhite;
+    border-radius: 0.25rem;
+}
+
+
+.navbar-toggler-icon {
+    display: flex;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+
+
 
 
 /*Estilo logo*/
@@ -62,25 +102,26 @@ svg {
 
 }
 
+
 .header-menu {
     text-decoration: none;
     font-size: 2vh;
     font-family: Raleway;
     color: antiquewhite;
     list-style-type: none;
+
 }
 
 /*Animacion Estilo logo*/
 
 .header-menu:hover {
     text-decoration: none;
-    font-size: 2.5vh;
     font-family: Raleway;
-    color: antiquewhite;
+    color: rgb(72, 72, 165);
+    background-color: antiquewhite;
 }
 
 .contenedor-texto {
-
 
     text-align: center;
     padding: 20px;
@@ -118,11 +159,11 @@ svg {
 
     }
 
-    .imagen-immpresion3d-contain {
+    .imagen-impresion3d-contain {
 
         grid-area: impresion-3d;
-        width: 450px;
-        height: 450px;
+        width: 30em;
+        height: 30em;
         border-radius: 50%;
         overflow: hidden;
         border: 5px solid rgb(72, 72, 165);
@@ -131,6 +172,11 @@ svg {
 
     .imagen-diseño-desarrollo-contain {
         grid-area: diseño;
+        width: 30em;
+        height: 30em;
+        border-radius: 50%;
+        overflow: hidden;
+        border: 5px solid rgb(72, 72, 165);
     }
 
 
@@ -762,7 +808,3 @@ svg {
 
 
 }
-
-
-
-
