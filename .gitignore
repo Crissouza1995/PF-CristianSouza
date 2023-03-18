@@ -1,10 +1,10 @@
 ./media/Ender3v2.gif
 clasebooststrap.html
 grids-clase1.html
-bootstrap.css
-bootstrap.bundle.js
+./css/bootstrap.css
 bootstrap-5.2.3-dist
 js
+bootstrap.html
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode
