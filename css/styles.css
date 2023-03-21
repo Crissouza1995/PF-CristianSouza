@@ -805,5 +805,21 @@ input[type="email"] {
     font-family: Raleway;
     color: antiquewhite;
 
-
 }
+
+.form-group {
+    margin-bottom: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.form-control.my-custom-class {
+
+    font-size: 0.75rem;
+    padding: 0.375rem 0.75rem;
+    width: 60%;
+
+  }
+
