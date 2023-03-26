@@ -8,4 +8,6 @@ disclaimer: all files are used with the intentions of learning, I`m not the owne
 Paginas resposive para 2da pre-entrega: Index y contactatos.
 correccion 
 
+link Git-Hub: https://crissouza1995.github.io/PreEntrega2SouzaCristian/
+
 correo electronico: cristianfabiansouza@gmail.com
