@@ -666,14 +666,14 @@ button[type="submit"]:hover {
 }
 
 .titulo-promo {
-    font-size: 2vh;
+    font-size: 1.5em;
     font-family: Raleway;
     color: rgb(72, 72, 165);
 }
 
 .sub-promo {
 
-    font-size: 1.5vh;
+    font-size: 1em;
     font-family: Raleway;
     color: rgb(72, 72, 165);
 
@@ -800,7 +800,7 @@ input[type="email"] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .mi-boton-suscripcion:hover {
