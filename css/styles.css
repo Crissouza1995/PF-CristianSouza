@@ -1,3 +1,7 @@
+/*Estilo fuente*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400;1,700&family=Raleway:wght@300&display=swap');
+
 .body {
     height: 100vh;
     width: 100%;
@@ -19,6 +23,7 @@
 svg {
     width: 40px;
 }
+
 
 
 /*-------------------Estilos personalizado menu principal------------------------*/
@@ -84,7 +89,7 @@ svg {
 .simpleplast {
     display: inline-block;
     font-family: Raleway;
-    font-size: 3vh;
+    font-size: 2em;
     color: antiquewhite;
     list-style-type: none;
 
@@ -105,7 +110,7 @@ svg {
 
 .header-menu {
     text-decoration: none;
-    font-size: 2vh;
+    font-size: 1.5em;
     font-family: Raleway;
     color: antiquewhite;
     list-style-type: none;
@@ -191,7 +196,7 @@ svg {
 .titulo-inicio {
 
     text-decoration: none;
-    font-size: 4vh;
+    font-size: em;
     font-family: Raleway;
     color: rgb(72, 72, 165);
 
@@ -203,7 +208,7 @@ svg {
 .titulo-imagenes-circulares {
 
     text-decoration: none;
-    font-size: 3vh;
+    font-size: 2em;
     font-family: Raleway;
     color: rgb(72, 72, 165);
 
@@ -265,7 +270,7 @@ svg {
 .titulo-box {
 
     text-decoration: none;
-    font-size: 3vh;
+    font-size: 2.5em;
     font-family: Raleway;
     color: rgb(72, 72, 165);
     padding: 10px;
@@ -275,7 +280,7 @@ svg {
 .texto-box {
 
     text-decoration: none;
-    font-size: 2vh;
+    font-size: 1.5em;
     font-family: Raleway;
     color: gray;
     padding: 8px;
@@ -296,6 +301,10 @@ svg {
         display: none;
     }
 
+    .form-group {
+        display: none;
+    }
+
 }
 
 /*Version mobile*/
@@ -305,7 +314,6 @@ svg {
         display: none;
     }
 
-   
 }
 
 
@@ -325,7 +333,7 @@ svg {
 .titulo-maqueta {
 
     text-decoration: none;
-    font-size: 2vh;
+    font-size: 2em;
     font-family: Raleway;
     color: gray;
     padding: 6px;
@@ -362,7 +370,7 @@ svg {
 .exp {
 
     text-decoration: none;
-    font-size: 3vh;
+    font-size: 2em;
     font-family: Raleway;
     color: rgb(72, 72, 165);
 }
@@ -745,7 +753,7 @@ button[type="submit"]:hover {
 
 .logo {
 
-    font-size: 1.5vh;
+    font-size: 1em;
     font-family: Raleway;
     color: antiquewhite;
 
@@ -753,7 +761,7 @@ button[type="submit"]:hover {
 
 .enunciado-suscripcion {
 
-    font-size: 1.5vh;
+    font-size: 1em;
     font-family: Raleway;
     color: antiquewhite;
 
@@ -801,7 +809,7 @@ input[type="email"] {
 
 .enunciado-social {
 
-    font-size: 1.5vh;
+    font-size: 1em;
     font-family: Raleway;
     color: antiquewhite;
 
@@ -819,7 +827,7 @@ input[type="email"] {
 
     font-size: 0.75rem;
     padding: 0.375rem 0.75rem;
-    width: 60%;
+    width: 90%;
 
   }
 
