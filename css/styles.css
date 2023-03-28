@@ -9,21 +9,20 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    
+   
 }
 
 * {
-
     margin: 0;
     padding: 2px;
     box-sizing: border box;
-
+    max-width: 100%;
 }
 
 svg {
     width: 40px;
 }
-
 
 
 /*-------------------Estilos personalizado menu principal------------------------*/
@@ -61,7 +60,6 @@ svg {
 }
 
 
-
 .navbar-toggler {
     padding: 0.25rem 0.75rem;
     font-size: 1.25rem;
@@ -83,8 +81,6 @@ svg {
 }
 
 
-
-
 /*Estilo logo*/
 .simpleplast {
     display: inline-block;
@@ -92,7 +88,6 @@ svg {
     font-size: 2em;
     color: antiquewhite;
     list-style-type: none;
-
 }
 
 /*Estilo Menu de navegacion */
@@ -103,7 +98,6 @@ svg {
     top: 0;
     background-color: transparent;
     z-index: 100;
-
 
 }
 
@@ -127,18 +121,14 @@ svg {
 }
 
 .contenedor-texto {
-
     text-align: center;
     padding: 20px;
     text-decoration: none;
     overflow: hidden;
-
 }
 
 
 /*-----------------------Estilos personalizado inicio----------------------------------------------------*/
-
-
 
 
 .inicio-grid {
@@ -161,7 +151,6 @@ svg {
     column-gap: 5px;
     row-gap: 5px;
     text-align: center;
-
 }
 
 .imagen-impresion3d-contain {
@@ -171,7 +160,6 @@ svg {
     overflow: hidden;
     border: 5px solid rgb(72, 72, 165);
 }
-
 
 
 
