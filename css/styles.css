@@ -144,24 +144,7 @@ svg {
     display: none;
   }
 }
-#mi-imagen {
-  position: relative;
-  top: 50%;
-  right: 0;
-  transform: translateX(100%);
-  animation-name: desplazar-centro;
-  animation-duration: 2s;
-  animation-fill-mode: forwards;
-}
 
-@keyframes desplazar-centro {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(0%);
-  }
-}
 .titulo-maqueta {
   text-decoration: none;
   font-size: 2em;
@@ -321,7 +304,7 @@ enunciado-galeria {
     padding-bottom: 70px;
   }
 }
-@media (max-width: 750px) {
+@media (min-width: 750px) {
   .galery-grid {
     display: grid;
     padding-top: 70px;
@@ -331,6 +314,7 @@ enunciado-galeria {
     padding-bottom: 70px;
   }
 }
+
 /*Estilo galeria de imagenes*/
 .imagen {
   opacity: 1;
