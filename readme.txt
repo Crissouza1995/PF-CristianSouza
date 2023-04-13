@@ -4,9 +4,7 @@ Comision:39275
 
 disclaimer: all files are used with the intentions of learning, I`m not the owner of .jpg file. 
 
-
-Paginas resposive para 3ra pre-entrega: Index y contactatos.
-correccion asasaws
+Se realizaron todas las correcciones solicitadas por la turora. Entrega Finald de proyecto.
 
 link Git-Hub: 
 
